@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppDrawer</string>
+    <string name="open_navigation_drawer">Abrir menu de navegação</string>
+    <string name="inicio">Início</string>
+    <string name="perfil">Meu perfil</string>
+    <string name="config">Configurações</string>
+    <string name="drawer_header_title">AppDrawer</string>
+    <string name="drawer_header_subtitle">Navegação do aplicativo</string>
+    <string name="inicio_titulo">Bem-vindo ao AppDrawer</string>
+    <string name="inicio_descricao">Use o menu lateral para navegar pelas seções do aplicativo. Selecione uma opção para visualizar seu conteúdo.</string>
+    <string name="perfil_titulo">Meu perfil</string>
+    <string name="perfil_descricao">Esta é a seção de perfil. Os dados pessoais e a edição de perfil ainda não foram implementados.</string>
+    <string name="config_titulo">Configurações</string>
+    <string name="config_descricao">Esta é a seção de configurações. As preferências do aplicativo ainda não foram implementadas.</string>
+</resources>
